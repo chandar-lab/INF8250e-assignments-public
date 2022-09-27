@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'question 2.2a',
     'points': 5,
     'suites': [   {   'cases': [   {   'code': '>>> answer = [ -1.49378919,  -2.96526431,  -4.41475871,  -5.84260071,\n'

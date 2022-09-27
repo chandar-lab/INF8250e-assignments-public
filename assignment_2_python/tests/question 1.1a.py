@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'question 1.1a',
     'points': 5,
     'suites': [   {   'cases': [   {   'code': '>>> dummy_states = [0, 5, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 5, 0, 0, 5, 5, 6, 11, 11]\n'
