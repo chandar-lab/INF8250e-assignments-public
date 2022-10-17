@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'question 3.1',
     'points': 3,
     'suites': [   {   'cases': [   {   'code': '>>> class DummyAgent(Agent):\n'

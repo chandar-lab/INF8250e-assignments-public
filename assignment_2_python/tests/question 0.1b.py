@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'question 0.1b',
     'points': 3,
     'suites': [   {   'cases': [   {   'code': '>>> true_states = np.zeros(52)\n'

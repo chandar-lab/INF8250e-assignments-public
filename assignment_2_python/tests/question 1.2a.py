@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'question 1.2a',
     'points': 2,
     'suites': [   {   'cases': [   {   'code': '>>> for epsilon in [0, 0.01, 0.15, 0.9]:\n'
