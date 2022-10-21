@@ -1,7 +1,7 @@
 OK_FORMAT = True
 
 test = {   'name': 'question 4b',
-    'points': [15, 5],
+    'points': [2, 3],
     'suites': [   {   'cases': [   {   'code': '>>> assert_equal = functools.partial(torch.testing.assert_close, rtol=0, atol=0)\n'
                                                ">>> test_env = gym.make('CartPole-v0')\n"
                                                '>>> test_value_net = value_init_network(test_env)\n'

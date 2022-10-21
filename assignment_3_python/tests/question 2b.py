@@ -1,7 +1,7 @@
 OK_FORMAT = True
 
 test = {   'name': 'question 2b',
-    'points': 10,
+    'points': 2,
     'suites': [   {   'cases': [   {   'code': ">>> test_env = gym.make('CartPole-v0')\n"
                                                '>>> assert_equal = functools.partial(torch.testing.assert_close, rtol=0, atol=0)\n'
                                                '>>> test_reinforce = REINFORCEPolicy(test_env, policy_init_network(test_env), 0.99)\n'
